@@ -1,2 +1,4 @@
 # Samridhi-py
-This is my first Git Repository. author samridhi sinha
+This is my first Git Repository. 
+<br>
+author samridhi sinha
