@@ -34,10 +34,10 @@ combined={**girls,**boys}
 print(combined)
 
 #create a calender 
-import calender
+import calendar
 year= int(input("enter the year"))
 print(year)
 month=int(input("enter your month"))
 print(month)
-x=calender.month(year,month)
+x=calendar.month(year,month)
 print(x)
